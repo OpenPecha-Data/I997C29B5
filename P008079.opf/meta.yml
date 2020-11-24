@@ -3,5 +3,27 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16596
   title: སྨན་རིས་གསལ་བའི་མེ་ལོང་།
-  volume: ''
+  volume:
+    ad1febc401bf48ed9fbb5cdf4b91952b:
+      image_group_id: I4PD4439
+      title: Volume 1 of sman ris gsal ba'i me long /
+      volume_number: 1
+      total_pages: 874
+    85f4c12597444ac992b748b2e70cf7b9:
+      image_group_id: I4PD4440
+      title: Volume 2 of sman ris gsal ba'i me long /
+      volume_number: 2
+      total_pages: 700
+    8bfad106dd2d47869e85604c944de780:
+      image_group_id: I4PD4441
+      title: Volume 3 of sman ris gsal ba'i me long /
+      volume_number: 3
+      total_pages: 314
   author: ''
+ebook_metadata:
+  title: སྨན་རིས་གསལ་བའི་མེ་ལོང་།
+  author: ''
+  sku: P008079
+  cover: cover.jpg
+  layers:
+  - pagination
