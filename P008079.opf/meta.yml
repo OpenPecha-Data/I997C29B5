@@ -5,24 +5,21 @@ source_metadata:
   title: སྨན་རིས་གསལ་བའི་མེ་ལོང་།
   author: ''
   volumes:
-    ad1febc401bf48ed9fbb5cdf4b91952b:
+    cade92fb714d468d853adbf144c6e4f3:
       image_group_id: I4PD4439
-      title: Volume 1 of sman ris gsal ba'i me long /
+      title: ''
       volume_number: 1
       total_pages: 874
-      base_file: v001.txt
-    85f4c12597444ac992b748b2e70cf7b9:
+    acbc02e9b58f4daba3d14e25cc2f3349:
       image_group_id: I4PD4440
-      title: Volume 2 of sman ris gsal ba'i me long /
+      title: ''
       volume_number: 2
       total_pages: 700
-      base_file: v002.txt
-    8bfad106dd2d47869e85604c944de780:
+    08a9d69380464bf898243266460180d7:
       image_group_id: I4PD4441
-      title: Volume 3 of sman ris gsal ba'i me long /
+      title: ''
       volume_number: 3
       total_pages: 314
-      base_file: v003.txt
 ebook_metadata:
   title: སྨན་རིས་གསལ་བའི་མེ་ལོང་།
   author: ''
